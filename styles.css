@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
     background-color: black;
-    color: white;
+    color: #555;
     margin: 0;
     padding: 0;
     display: flex;
@@ -50,6 +50,7 @@ body {
   label {
     display: block;
     background-color: #333;
+    color: #fff;
     padding: 10px;
     border-radius: 5px;
     cursor: pointer;
